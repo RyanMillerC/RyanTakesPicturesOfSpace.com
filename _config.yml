@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+host: 0.0.0.0
+port: 4000
+
 # Site language
 lang: en-US
 
