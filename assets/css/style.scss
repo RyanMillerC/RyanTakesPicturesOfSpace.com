@@ -41,6 +41,8 @@ $palette: (
 );
 
 // Imports
+// TODO: import is bad now? Tried switching to '@use "functions" as *;', etc.
+//       but that breaks the page style
 @import "functions";
 @import "icons";
 @import "reset";
