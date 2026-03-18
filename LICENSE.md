@@ -1,5 +1,6 @@
 MIT License
 
+Copyright (c) 2026 Ryan Miller
 Copyright (c) 2020 Just Good Themes
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
