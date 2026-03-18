@@ -10,7 +10,9 @@ layout: default
       <h1 class="post-title">{{page.title}}</h1>
       {% if page.feature_image and page.feature_image != "" %}
       <figure class="post-thumbnail image-card width-wide">
-        <img src="{{ page.feature_image | relative_url }}" alt="{{ page.title }}">
+        <a href="{{ page.feature_image | relative_url }}">
+          <img src="{{ page.feature_image | relative_url }}" alt="{{ page.title }}">
+        </a>
       </figure><!-- .post-thumbnail -->
       {% endif %}
     </header><!-- .post-header -->
