@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
+title: About Me
+description: Ryan Miller takes pictures of space with his telescope.
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+# TODO: REPLACE THIS IMAGE ^^^
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+> **[Ryan Miller](https://linktr.ee/RyanMillerC)** takes pictures of space with his Seestar S30 smart telescope and posts them here.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+I've wanted to get into astrophotography for a couple years but entering the hobby was daunting: camera, telescope, star tracker, stacking, exposure, etc.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+I bought a Seestar S30 smart telescope in late 2025. I turn it on, open the app, tap what I want to capture, and the telescope finds it in the sky!
 
-*Thank You for reading!*
+I'm overwhelmed by image post-processing but I'm starting to work with Siril and GraXpert. I'm getting good (enough) post-processing results through the Seestar app. AI denoise works GREAT and then I play with the brightness, contrast, and saturation. It's not the best but it's low effort.
+
+**Thanks for checking my page out!**
