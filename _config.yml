@@ -9,16 +9,16 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "RyanTakesPicturesOfSpace.com"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Ryan takes pictures of space."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://RyanTakesPicturesOfSpace.com"
 
 # Favicon
 favicon: images/favicon.png
@@ -47,15 +47,15 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
+  content: "&copy; RyanTakesPicturesOfSpace.com all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  has_social: false
 
 # Plugins
 plugins:
   - jekyll-paginate
 
 # http://jekyllrb.com/docs/pagination/
-paginate: 3
+paginate: 10
 paginate_path: '/page:num/'
 
 
