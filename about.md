@@ -5,8 +5,6 @@ description: Ryan Miller takes pictures of space with his telescope.
 feature_image: images/about.jpg
 ---
 
-# TODO: REPLACE THIS IMAGE ^^^
-
 > **[Ryan Miller](https://linktr.ee/RyanMillerC)** takes pictures of space with his Seestar S30 smart telescope and posts them here.
 
 I've wanted to get into astrophotography for a couple years but entering the hobby was daunting: camera, telescope, star tracker, stacking, exposure, etc.
