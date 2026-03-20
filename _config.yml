@@ -42,7 +42,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; RyanTakesPicturesOfSpace.com all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "**&copy; RyanTakesPicturesOfSpace.com all rights reserved.** Theme by [JustGoodThemes](https://www.justgoodthemes.com). Icon font in use is [Heuristica-Regular](https://www.fontsquirrel.com/fonts/heuristica) designed by [Andrej Panov](https://www.namecheap.com/logo-maker/app/editor) and licensed under [Open Font License](https://www.fontsquirrel.com/license/heuristica). Icon designed by [Kayla Valencia](https://thenounproject.com/creator/createdby_kayla/)."
   has_social: false
 
 # Plugins

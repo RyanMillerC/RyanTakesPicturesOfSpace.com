@@ -1,8 +1,16 @@
 <header class="site-header">
   {% if page.url == "/" %}
-  <h1 class="site-title"><a class="logo-text" href="{{ site.baseurl }}/">{{site.title}}</a></h1>
+  <h1 class="site-title">
+    <a class="logo-text" href="{{ site.baseurl }}/">
+      <img height="50" width="400" src="/images/logo-default.svg" alt="RyanTakesPicturesOfSpace.com" />
+    </a>
+  </h1>
   {% else %}
-  <p class="site-title"><a class="logo-text" href="{{ site.baseurl }}/">{{site.title}}</a></p>
+  <p class="site-title">
+    <a class="logo-text" href="{{ site.baseurl }}/">
+      <img height="50" width="400" src="/images/logo-default.svg" alt="RyanTakesPicturesOfSpace.com" />
+    </a>
+  </p>
   {% endif %}
   <nav class="site-navigation">
     <div class="site-navigation-wrap">
