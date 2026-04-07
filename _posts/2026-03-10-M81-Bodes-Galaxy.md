@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "M81 - Bode's Galaxy"
-description: "Astrophotographs of M81 - Bode's Galaxy taken on 2026-03-10"
+description: "Astrophotographs of M81 - Bode's Galaxy taken on 2026-03-10."
 date: 2026-03-10
 feature_image: images/2026-03-10-M81-Bodes-Galaxy.jpg
 ---
